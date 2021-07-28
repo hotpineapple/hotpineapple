@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 🍍
 
 - 🔭 Experience 
-  - Samsung Software Academy for Youth (Java Track)
-  - Internship at Continental Automotive Electronics - Software Engineering 
+  - Samsung Software Academy for Youth (Java Track) ☕
+  - Internship at Continental Automotive Electronics - Software Engineering 👩‍💻
+  - Working Holiday in Australia 🇦🇺
  
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS Associate Certificate
 
 <!--
 **hotpineapple/hotpineapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
