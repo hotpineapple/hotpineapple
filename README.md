@@ -5,7 +5,17 @@
   - Internship at Continental Automotive Electronics - Software Engineering 👩‍💻
   - Working Holiday in Australia 🇦🇺
  
-- 🌱 I’m currently learning AWS Associate Certificate
+- 🌱 I’m currently learning AWS 
+
+<!-- - Things to study
+  - data structure
+  - sort algorithm
+  - SOLID principle
+  - Design pattern
+  - Socket comm. programming
+  - Docker
+  - K8s
+  - AWS EC2 / lambda / Machine Learning -->
 
 <!--
 **hotpineapple/hotpineapple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
