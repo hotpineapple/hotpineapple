@@ -5,7 +5,7 @@
   - Internship at Continental Automotive Electronics - Software Engineering 👩‍💻
   - Working Holiday in Australia 🇦🇺
  
-- 🌱 I’m currently learning AWS 
+- 🌱 I’m currently learning ...
 
 <!-- - Things to study
   - data structure
