@@ -6,6 +6,8 @@
   - Working Holiday in Australia 🇦🇺
  
 - 🌱 I’m currently learning ...
+  - TypeScript
+  - HTTP
 
 <!-- - Things to study
   - data structure
