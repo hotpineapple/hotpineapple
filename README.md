@@ -9,7 +9,7 @@
   - Node.js
   - koa
   - mongo DB
-  - HTTP
+  - 
 
 - 🧷 Tech Stack
 
