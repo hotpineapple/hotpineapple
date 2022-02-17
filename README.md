@@ -7,9 +7,10 @@
  
 - 🌱 I’m currently learning ...
   - Node.js
-  - koa
+  - koa / express
   - mongo DB
   - Docker
+  - AWS
 
 - 🧷 Tech Stack
 
