@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ...
   - Node.js
   - express
-  - sequelize
+  - sequelize / maria DB
   - Docker
   - AWS
 
