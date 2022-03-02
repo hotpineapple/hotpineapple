@@ -7,8 +7,8 @@
  
 - 🌱 I’m currently learning ...
   - Node.js
-  - koa / express
-  - mongo DB
+  - express
+  - sequelize
   - Docker
   - AWS
 
