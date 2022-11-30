@@ -3,7 +3,7 @@
 - 🔭 Experience 
   - Tmax Hyper meeting server(Backend)  
   - Samsung Software Academy for Youth (Java Track) ☕
-  - Internship at Continental Automotive Electronics - Software Engineering 👩‍💻
+  - Internship at Continental Automotive Electronics - Software Requirement Engineering 👩‍💻
   - Working Holiday in Australia 🇦🇺
  
 - 🌱 I’m currently learning ...
