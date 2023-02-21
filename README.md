@@ -2,16 +2,13 @@
 
 - 🔭 Experience 
   - Tmax Hyper meeting server(Backend)  
-  - Samsung Software Academy for Youth (Java Track) ☕
-  - Internship at Continental Automotive Electronics - Software Requirement Engineering 👩‍💻
-  - Working Holiday in Australia 🇦🇺
+  - Samsung Software Academy for Youth (Java Track)
  
 - 🌱 I’m currently learning ...
   - Node.js
   - express
   - sequelize / maria DB
   - Docker
-  - AWS
 
 - 🧷 Tech Stack
 
