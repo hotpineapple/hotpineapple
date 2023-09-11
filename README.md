@@ -3,12 +3,7 @@
 - 🔭 Experience 
   - Tmax Hyper meeting server(Backend)  
   - Samsung Software Academy for Youth (Java Track)
- 
-- 🌱 I’m currently learning ...
-  - Node.js
-  - express
-  - sequelize / maria DB
-  - Docker
+
 
 - 🧷 Tech Stack
 
