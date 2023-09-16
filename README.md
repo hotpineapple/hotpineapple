@@ -1,8 +1,7 @@
 ### Hi there 🍍
 
 - 프로필
-  - [notion 이력서](https://www.notion.so/695033c4026c4b9f90c58256cf179e0b)
-
+  - [Notion 이력서](https://www.notion.so/695033c4026c4b9f90c58256cf179e0b)
 
 - 🧷 Tech Stack
 
