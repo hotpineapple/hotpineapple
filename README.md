@@ -1,7 +1,7 @@
 ### Hi there 🍍
 
 - Profile
-  - [notion](https://www.notion.so/695033c4026c4b9f90c58256cf179e0b)
+  - [notion 이력서](https://www.notion.so/695033c4026c4b9f90c58256cf179e0b)
 - 🔭 Experience 
   - Tmax Hyper meeting server(Backend)  
   - Samsung Software Academy for Youth (Java Track)
